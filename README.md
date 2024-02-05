@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahesh Raut</h1>
+![image](https://github.com/maheshraut07/maheshraut07/assets/120418364/624a4f59-b5ea-439e-b204-950fc3cc1d87)<h1 align="center">Hi 👋, I'm Mahesh Raut</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/71611ea84eedcc22c3a27dd040649cabf32efc9b32d55d1ab5c16bfe349829c2/68747470733a2f2f7777772e627970656f706c652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30332f70656f706c652d61742d776f726b2e676966">
 
@@ -8,8 +8,7 @@
 
 - 📫 How to reach me **rautmahesh213@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JgP22Mkav2_-W9JhNuFe617j7Ttq39BE/view](https://drive.google.com/file/d/1JgP22Mkav2_-W9JhNuFe617j7Ttq39BE/view)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1JgP22Mkav2_-W9JhNuFe617j7Ttq39BE/view]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mahesh raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahesh raut" height="30" width="40" /></a>
