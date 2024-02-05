@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mahesh Raut</h1>
-<h3 align="center">A passionate Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshraut07&label=Profile%20views&color=0e75b6&style=flat" alt="maheshraut07" /> </p>
+<h3 align="center">A passionate Software Engineer.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maheshraut07" alt="maheshraut07" /></a> </p>
 
