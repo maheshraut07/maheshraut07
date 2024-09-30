@@ -16,7 +16,7 @@
 <a href="https://fb.com/mahesh raut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahesh raut" height="30" width="40" /></a>
 <a href="https://instagram.com/maheshraut07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="maheshraut07" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/maheshraut_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="maheshraut_07" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rautmahorqg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rautmahorqg" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/maheshraut_07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rautmahorqg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
