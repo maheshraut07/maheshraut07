@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rautmahesh213@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Wa8O-1mtTCrySESYA1VwwhO_JuRWmETn/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1FmyvmtyFSL6HHZw4tQYsN7XZKVAEe2lT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
