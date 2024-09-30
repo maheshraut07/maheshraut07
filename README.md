@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh Raut</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/search?sca_esv=62d1c2127d43278b&sca_upv=1&rlz=1C1VDKB_enIN1121IN1121&sxsrf=ADLYWIL1TLudrf72tDDlBYmQUHS5ua_7Rg:1727021816990&q=github+coding+avatar+profile&udm=2&fbs=AEQNm0AeMNWKf4PpcKMI-eSa16lJoRPMIuyspCxWO6iZW9F1Nu5UXlEfGU2YX1CrW9Nmm9Q3JIJZUqyMsLxos5tPU_UnqJUBrgTTZdMQfghyy8PpT_cHSYt6LsMld2_XK7XZstHHUm7NbU1iDBvtcjuK_h_kqH6Dwz8lr4DOT4zoV4UNRTZJRLFWSjCZObIUJtMtWYlk3wsZc9KkGx3R7G_Sq--ZicncbQ&sa=X&ved=2ahUKEwjI6a7P-daIAxVGa_UHHapIAOYQtKgLegQIEhAB&biw=1536&bih=730&dpr=1.25#imgrc=fFEA-MbfneQmkM&imgdii=wFWDo_Zz8StFrM">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maheshraut07&label=Profile%20views&color=0e75b6&style=flat" alt="maheshraut07" /> </p>
 
