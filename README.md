@@ -159,13 +159,6 @@
       height="40"
     /> 
   </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"><img
-      src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"
-      alt="spring"
-      width="40"
-      height="40"
-    /> 
-  </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img
       src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
       alt="tailwind"
@@ -173,7 +166,7 @@
       height="40"
     /> 
   </a> 
-</p>;
+</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=maheshraut07&show_icons=true&locale=en&layout=compact" alt="maheshraut07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maheshraut07&show_icons=true&locale=en" alt="maheshraut07" /></p>
